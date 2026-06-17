@@ -21,6 +21,7 @@ with illustrative code examples (signal plots, etc.) as a study resource and are
   Prentice Hall, 2nd ed.
 
 ## Contents
+[Introductory Notions](01_introductory_notions.ipynb)
 [adaptive_filters](adaptive_filters.ipynb)
 
 ## Disclaimer
