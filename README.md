@@ -21,8 +21,9 @@ with illustrative code examples (signal plots, etc.) as a study resource and are
   Prentice Hall, 2nd ed.
 
 ## Contents
-[Introductory Notions](01_introductory_notions.ipynb)
-[adaptive_filters](adaptive_filters.ipynb)
+* [Introductory Notions](01_introductory_notions.ipynb)
+* [Discrete Time Sygnals](02_discrete_time_signals.ipynb)
+* [adaptive_filters](adaptive_filters.ipynb)
 
 ## Disclaimer
 This repository contains independently produced student notes. It is not affiliated with,
