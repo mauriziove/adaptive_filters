@@ -1,5 +1,4 @@
 # Digital Signal Processing — University Notes
-
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
 
 Personal study notes from the course **"Circuiti e Algoritmi per il Trattamento dei Segnali"**
@@ -15,7 +14,6 @@ They are "refactored" from hand written notes to Jupyter notebooks
 with illustrative code examples (signal plots, etc.) as a study resource and are not official course material.
 
 ## Course information
-
 - **Course:** [Circuiti e Algoritmi per il Trattamento dei Segnali](https://www.ingegneria.univpm.it/sites/www.ingegneria.univpm.it/files/ingegneria/guida_2003_2004/guida/programmi/ancona/vecchio_ordinamento/vo017.htm)
 - **Instructor:** Prof. Francesco Piazza
 - **Institution:** Università Politecnica delle Marche, Ancona, Italy
@@ -23,20 +21,9 @@ with illustrative code examples (signal plots, etc.) as a study resource and are
   Prentice Hall, 2nd ed.
 
 ## Contents
-
 [adaptive_filters](adaptive_filters.ipynb)
 
-## License
-
-This work is licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/).
-
-You are free to share and adapt this material for **non-commercial purposes**, as long as you
-give appropriate credit to the original author and to the course/instructor referenced above.
-
-See [LICENSE.md](LICENSE.md) for details.
-
 ## Disclaimer
-
 This repository contains independently produced student notes. It is not affiliated with,
 endorsed by, or reviewed by Università Politecnica delle Marche or Prof. Francesco Piazza.
 Any errors or omissions are my own.
