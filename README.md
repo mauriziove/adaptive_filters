@@ -7,7 +7,6 @@ curriculum at the **Università Politecnica delle Marche** (Ancona, Italy), taug
 **Prof. Francesco Piazza**.
 
 ## Motivation
-With Jupyther and the Python battery included paradigm I wanted to have something useful and beatiful at the same time.
 These notes were written by me as a student during the course and reflect my own
 understanding, paraphrasing, and organization of the lecture material. 
 They are "refactored" from hand written notes to Jupyter notebooks 
@@ -23,7 +22,9 @@ with illustrative code examples (signal plots, etc.) as a study resource and are
 ## Contents
 * [Introductory Notions](01_introductory_notions.ipynb)
 * [Discrete Time Sygnals](02_discrete_time_signals.ipynb)
-* [adaptive_filters](adaptive_filters.ipynb)
+* [Discrete Time Systems](03_discrete_time_systems.ipynb)
+* [Adaptive Filters](adaptive_filters.ipynb)
+
 
 ## Disclaimer
 This repository contains independently produced student notes. It is not affiliated with,
