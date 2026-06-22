@@ -1,10 +1,8 @@
 # Digital Signal Processing — University Notes
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
 
-Personal study notes from the course **"Circuiti e Algoritmi per il Trattamento dei Segnali"**
-(*Circuits and Algorithms for Signal Processing*), part of the Digital Signal Processing
-curriculum at the **Università Politecnica delle Marche** (Ancona, Italy), taught by
-**Prof. Francesco Piazza**.
+Personal study notes from the Master degree course Digital Signal Processing at 
+the **Università Politecnica delle Marche** (Ancona, Italy), held by Prof. Francesco Piazza.
 
 ## Motivation
 These notes were written by me as a student during the course and reflect my own
@@ -23,6 +21,7 @@ with illustrative code examples (signal plots, etc.) as a study resource and are
 * [Introductory Notions](01_introductory_notions.ipynb)
 * [Discrete Time Sygnals](02_discrete_time_signals.ipynb)
 * [Discrete Time Systems](03_discrete_time_systems.ipynb)
+* [Discrete-Time Fourier Transform](04_discrete_time_fourier_transform.ipynb)
 * [Adaptive Filters](adaptive_filters.ipynb)
 
 
